@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qc8N+Hf2m15efn2CTKbXsIqrsfdVcwv6tHkES1BNVX4NhGj+5/uYYmTlmRlKG5sXmYx5cRYFnQCQYkYd6MmaYQ==",
+  "dgSpecHash": "BYB7/GnXfeGshXkPpD5U/SuoXXt6ywERdYKnVVFkItzxAJRUdHxh5PauhPfffQSpwFBTEKHnpBhWqSzlehySAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Seasons\\Seasons\\Seasons.csproj",
+  "projectFilePath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\Seasons\\Seasons\\Seasons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\opentk\\4.9.4\\opentk.4.9.4.nupkg.sha512",
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\opentk.audio.openal\\4.9.4\\opentk.audio.openal.4.9.4.nupkg.sha512",
