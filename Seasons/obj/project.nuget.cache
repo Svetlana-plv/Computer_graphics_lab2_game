@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BYB7/GnXfeGshXkPpD5U/SuoXXt6ywERdYKnVVFkItzxAJRUdHxh5PauhPfffQSpwFBTEKHnpBhWqSzlehySAA==",
+  "dgSpecHash": "JrSqgt5TS2DgrUDHfVt2J+9OzbaO1qUXTS+122cHLJLCODl4knyPcyU2NQ1TDFMjtK8uqxEji7Y4Rz508RiCuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\Seasons\\Seasons\\Seasons.csproj",
+  "projectFilePath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\2 лаба\\Seasons\\Seasons\\Seasons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\opentk\\4.9.4\\opentk.4.9.4.nupkg.sha512",
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\opentk.audio.openal\\4.9.4\\opentk.audio.openal.4.9.4.nupkg.sha512",
@@ -15,6 +15,7 @@
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\opentk.windowing.common\\4.9.4\\opentk.windowing.common.4.9.4.nupkg.sha512",
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\opentk.windowing.desktop\\4.9.4\\opentk.windowing.desktop.4.9.4.nupkg.sha512",
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.9.4\\opentk.windowing.graphicslibraryframework.4.9.4.nupkg.sha512",
+    "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\stbimagesharp\\2.30.15\\stbimagesharp.2.30.15.nupkg.sha512",
     "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

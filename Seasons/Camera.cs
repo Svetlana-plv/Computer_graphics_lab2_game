@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pylaeva_lab2
+namespace Seasons
 {
     internal class Camera
     {

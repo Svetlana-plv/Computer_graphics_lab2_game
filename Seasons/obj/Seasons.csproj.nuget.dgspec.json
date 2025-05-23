@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\Seasons\\Seasons\\Seasons.csproj": {}
+    "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\2 лаба\\Seasons\\Seasons\\Seasons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\Seasons\\Seasons\\Seasons.csproj": {
+    "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\2 лаба\\Seasons\\Seasons\\Seasons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\Seasons\\Seasons\\Seasons.csproj",
+        "projectUniqueName": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\2 лаба\\Seasons\\Seasons\\Seasons.csproj",
         "projectName": "Seasons",
-        "projectPath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\Seasons\\Seasons\\Seasons.csproj",
+        "projectPath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\2 лаба\\Seasons\\Seasons\\Seasons.csproj",
         "packagesPath": "C:\\Users\\Pylae_w3k2tgv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\Seasons\\Seasons\\obj\\",
+        "outputPath": "C:\\Users\\Pylae_w3k2tgv\\source\\repos\\Компьютерная графика\\2 лаба\\Seasons\\Seasons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pylae_w3k2tgv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
             "OpenTK": {
               "target": "Package",
               "version": "[4.9.4, )"
+            },
+            "StbImageSharp": {
+              "target": "Package",
+              "version": "[2.30.15, )"
             }
           },
           "imports": [
